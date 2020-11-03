@@ -209,9 +209,6 @@
         padding: 20px 0 0 0;
     }
 
-    .value-info #text {
-        background-color: #43d3f2;
-    }
 
     @media screen and (max-width: 1024px) {
         .container {

@@ -166,8 +166,8 @@
     }
 
     @keyframes open {
-        from { opacity: 0; transform: scale(1.1) }
-        to { opacity: 1; transform: scale(1) }
+        from { opacity: 0; transform: translateY(-20px) }
+        to { opacity: 1; transform: translateY(0) }
     }
 
     @media screen and (max-width: 1024px) {

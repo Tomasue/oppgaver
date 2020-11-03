@@ -67,14 +67,15 @@
     .carousel__slider-container {
         height: 100%;
         position: relative;
-        overflow-x: hidden;
+        width: 100%;
     }
 
     .carousel__slider {
         list-style: none;
         padding: 0;
         margin: 0;
-        overflow-x: hidden;
+        height: 100%;
+        width: 100%;
     }
     .carousel__slide {
         position: absolute;

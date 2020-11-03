@@ -17,6 +17,7 @@
         justify-content: center;
         align-items: center;
         padding: 20px;
+        margin-top: 20px;
     }
 
     .carousel__indicator {
@@ -40,7 +41,7 @@
 
     @media screen and (max-width: 425px) {
         .carousel__nav {
-            padding: 15px 0 5px 0;
+            padding: 20px 0 10px 0;
         }
     }
 </style>
